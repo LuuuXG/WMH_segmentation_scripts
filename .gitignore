@@ -1,0 +1,4 @@
+# 忽略各个unused 文件夹
+/src/bash/unused/
+/src/matlab/unused/
+/src/python/unused/
