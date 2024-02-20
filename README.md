@@ -7,7 +7,6 @@ Here are some usage scripts for various white matter hyperintensity (WMH) segmen
 ### 测试数据 TestData
 
 - **Input:** `./data/LST/rawdata`
-- **Output:** `./data/LST/derivatives`
 
 ### 目前包含了以下分割工具的使用脚本 The scripts are currently included for the following WMH segmentation tools
 
