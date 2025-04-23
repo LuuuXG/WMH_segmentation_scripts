@@ -1,5 +1,11 @@
 # WMH_segmentation_scripts
 
+> **⚠️ Archived Notice**
+>
+> This repository is no longer actively maintained. The scripts here are now being consolidated into a new Python package (cvdproc).
+> This archive remains available for reference and historical purposes.
+
+
 这里是一些各种WMH分割工具的使用脚本，以及对分割得到WMH进行定量分析的脚本
 
 Here are some usage scripts for various white matter hyperintensity (WMH) segmentation tools, as well as scripts for quantitative analysis of segmented WMH
@@ -7,7 +13,7 @@ Here are some usage scripts for various white matter hyperintensity (WMH) segmen
 ### 测试数据 TestData
 
 - **Input:** `./data/rawdata`
-- **Output:** `./data/derivatives.zip`
+- **Output:** `./data/derivatives.rar`
 
 ### 目前包含了以下分割工具的使用脚本 The scripts are currently included for the following WMH segmentation tools
 
